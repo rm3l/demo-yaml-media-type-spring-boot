@@ -16,6 +16,11 @@
       <artifactId>spring-boot-starter-web</artifactId>
       <groupId>org.springframework.boot</groupId>
     </dependency>
+    <dependency>
+      <artifactId>jackson-dataformat-yaml</artifactId>
+      <groupId>com.fasterxml.jackson.dataformat</groupId>
+      <version>2.12.4</version>
+    </dependency>
 
     <dependency>
       <artifactId>spring-boot-starter-test</artifactId>
